@@ -1,3 +1,3 @@
-# Georgia Staff Resoources
+# Georgia Staff Resources
 
 This shared repository is deployed using the [following script](http://explore.gastateparks.org/core/admin/deploy.aspx)  
